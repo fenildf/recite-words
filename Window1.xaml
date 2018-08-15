@@ -1,0 +1,21 @@
+﻿<Window x:Class="WPFbj.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFbj"
+        mc:Ignorable="d"
+        Title="Window1" Height="598.844" Width="1247.915" Closing="Window_Closing">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FF524F4F" Offset="0"/>
+            <GradientStop Color="#FFC45151" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid>
+        <TextBlock x:Name="tb" HorizontalAlignment="Left" Margin="25,34,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="54" Width="121"/>
+        <DataGrid Name="datagride1" AutoGenerateColumns="True" Height="536" HorizontalAlignment="Left" Margin="119,0,0,0"  VerticalAlignment="Top" Width="1100" FontWeight="Bold" FontSize="18" KeyDown="datagride1_KeyDown" KeyUp="datagride1_KeyUp" >
+
+        </DataGrid>
+    </Grid>
+</Window>

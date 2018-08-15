@@ -1,0 +1,76 @@
+c:\users\administrator\documents\visual studio 2015\Projects\WPFbj\WPFbj\bin\Debug\WPFbj.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\WPFbj\WPFbj\bin\Debug\WPFbj.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WPFbj\WPFbj\bin\Debug\WPFbj.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WPFbj\WPFbj\obj\Debug\WPFbj.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\WPFbj\WPFbj\obj\Debug\MainWindow.g.cs
+c:\users\administrator\documents\visual studio 2015\Projects\WPFbj\WPFbj\obj\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2015\Projects\WPFbj\WPFbj\obj\Debug\WPFbj_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 2015\Projects\WPFbj\WPFbj\obj\Debug\WPFbj_MarkupCompile.lref
+c:\users\administrator\documents\visual studio 2015\Projects\WPFbj\WPFbj\obj\Debug\MainWindow.baml
+c:\users\administrator\documents\visual studio 2015\Projects\WPFbj\WPFbj\obj\Debug\WPFbj.g.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WPFbj\WPFbj\obj\Debug\WPFbj.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WPFbj\WPFbj\obj\Debug\WPFbj.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\WPFbj\WPFbj\obj\Debug\WPFbj.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WPFbj\WPFbj\obj\Debug\WPFbj.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WPFbj\WPFbj\obj\Debug\Window1.g.cs
+c:\users\administrator\documents\visual studio 2015\Projects\WPFbj\WPFbj\obj\Debug\Window2.g.cs
+c:\users\administrator\documents\visual studio 2015\Projects\WPFbj\WPFbj\obj\Debug\Window1.baml
+c:\users\administrator\documents\visual studio 2015\Projects\WPFbj\WPFbj\obj\Debug\Window2.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WPFbj\WPFbj\obj\Debug\Window3.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WPFbj\WPFbj\obj\Debug\Window3.baml
+C:\Users\Administrator\documents\visual studio 2015\Projects\WPFbj\WPFbj\obj\Debug\Window4.g.cs
+C:\Users\Administrator\documents\visual studio 2015\Projects\WPFbj\WPFbj\obj\Debug\Window4.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\bin\Debug\WPFbj.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\obj\Debug\WPFbj.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\obj\Debug\WPFbj.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\bin\Debug\WPFbj.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\bin\Debug\WPFbj.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\obj\Debug\WPFbj.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\obj\Debug\Window1.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\obj\Debug\Window2.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\obj\Debug\Window3.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\obj\Debug\Window4.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\obj\Debug\Window5.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\obj\Debug\WPFbj_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\obj\Debug\WPFbj_MarkupCompile.lref
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\obj\Debug\Window1.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\obj\Debug\Window2.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\obj\Debug\Window3.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\obj\Debug\Window4.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\obj\Debug\Window5.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\obj\Debug\WPFbj.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\obj\Debug\WPFbj.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\obj\Debug\WPFbj.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\obj\Debug\WM.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\obj\Debug\WM.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词\WPFbj\bin\Debug\Window2.xaml.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\bin\Debug\WPFbj.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\obj\Debug\WPFbj.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\obj\Debug\WPFbj.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\bin\Debug\Window2.xaml.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\bin\Debug\WPFbj.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\bin\Debug\WPFbj.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\obj\Debug\WPFbj.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\obj\Debug\Window1.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\obj\Debug\Window2.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\obj\Debug\Window3.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\obj\Debug\Window4.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\obj\Debug\Window5.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\obj\Debug\WM.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\obj\Debug\WPFbj_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\obj\Debug\WPFbj_MarkupCompile.lref
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\obj\Debug\Window1.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\obj\Debug\Window2.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\obj\Debug\Window3.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\obj\Debug\Window4.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\obj\Debug\Window5.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\obj\Debug\WM.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\obj\Debug\WPFbj.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\obj\Debug\WPFbj.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\单词 222\WPFbj\obj\Debug\WPFbj.csproj.GenerateResource.Cache
